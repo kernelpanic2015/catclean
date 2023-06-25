@@ -2,8 +2,6 @@
 
 CatClean is a command-line utility written in C++ that removes comment lines and blank lines from a text file.
 
-https://img.shields.io/badge/version-v1.0.0-blue
-
 ## Installation
 
 You can install CatClean by following these steps:
