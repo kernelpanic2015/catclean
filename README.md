@@ -2,15 +2,11 @@
 
 CatClean is a command-line utility written in C++ that removes comment lines and blank lines from a text file.
 
-## Prerequisites
-
-Make sure you have a C++ compiler installed on your system. You can use GCC or any other compiler of your choice.
-
 ## Installation
 
 You can install CatClean by following these steps:
 
-1. Download the latest version of the `.deb` package from the [Releases](https://github.com/your-username/catclean/releases) page.
+1. Download the latest version of the `.deb` package from the [Releases](https://github.com/kernelpanic2015/catclean/releases) page.
 
 2. Open a terminal and navigate to the directory where the `.deb` package is located.
 
@@ -34,6 +30,7 @@ Make sure you have a C++ compiler installed on your system. You can use GCC or a
 To compile the program, run the following command in the terminal:
 
 ```bash
+cd src/
 g++ -o catclean catclean.cpp 
 ```
 
@@ -70,4 +67,3 @@ Contributions are welcome! Feel free to open issues and submit pull requests wit
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
-
